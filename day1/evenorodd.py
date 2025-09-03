@@ -1,0 +1,7 @@
+def evenOdd(num):
+    if(num%2 == 0):
+        print(num,"is even")
+    else:
+        print(num,"is odd")
+
+evenOdd(57)
